@@ -1,0 +1,7 @@
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\Documente\C#\HexViewer-LucaAlin\bin\Debug\HexViewer_LucaAlin.exe
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\Documente\C#\HexViewer-LucaAlin\bin\Debug\HexViewer_LucaAlin.pdb
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\Documente\C#\HexViewer-LucaAlin\obj\Debug\HexViewer-LucaAlin.csproj.AssemblyReference.cache
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\Documente\C#\HexViewer-LucaAlin\obj\Debug\HexViewer-LucaAlin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\Documente\C#\HexViewer-LucaAlin\obj\Debug\HexViewer-LucaAlin.csproj.CoreCompileInputs.cache
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\Documente\C#\HexViewer-LucaAlin\obj\Debug\HexViewer_LucaAlin.exe
+C:\Users\Computer8800\OneDrive - Universitatea din Oradea\Documente\C#\HexViewer-LucaAlin\obj\Debug\HexViewer_LucaAlin.pdb
